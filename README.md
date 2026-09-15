@@ -32,7 +32,7 @@ smr2
 - [ ] salir
 - [x] trabajar
 
-## :rocket: mi proyecto
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1550F7&width=435&lines=%3Arocket%3A+mi+proyecto)](https://git.io/typing-svg)
 - [x] crear el repositorio
 - [x] crear el readme
 - [] añadir imagenes
