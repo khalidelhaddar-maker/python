@@ -3,7 +3,7 @@
 
 # apweb
 smr2
-### khalid el haddar ahdad
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=khalid+el+haddar+)](https://git.io/typing-svg)
 # MODULO GM2
 ## PYTHON
 ### PRACTICAS PYTHON
