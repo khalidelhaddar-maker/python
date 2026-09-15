@@ -24,10 +24,10 @@ smr2
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71D1D&width=435&lines=+css)](https://git.io/typing-svg)
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71D1D&width=435&lines=+javaScript)](https://git.io/typing-svg)
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71D1D&width=435&lines=Python)](https://git.io/typing-svg)
-1. diseñar
-2. programar
-3. probar
-4. publicar
+1. [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=24F73A&width=435&lines=dise%C3%B1ar)](https://git.io/typing-svg)
+2. [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=24F73A&width=435&lines=programar)](https://git.io/typing-svg)
+3. [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=24F73A&width=435&lines=probar)](https://git.io/typing-svg)
+4. [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=24F73A&width=435&lines=publicar)](https://git.io/typing-svg)
 
 - [ ] salir
 - [x] trabajar
