@@ -7,6 +7,11 @@ smr2
 # MODULO GM2
 ## PYTHON
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=soy+el+alumno+khalid+el+haddar+ahdad+y+este+a%C3%B1o+aprenderemos+a+programar+con+python+con+la+profesora+sonia+y+esperemos+aprender+lo+maximo+posible+para+poder+programar+en+un+fututo.)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=del+curso+gm2+de+informatica)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=y+este+a%C3%B1o+en+python+aprenderemos+)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=a+programar+y+esperemos+aprender+)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=lo+mejor+posible+para+)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=un+futuro+poder+trabajar+de+ello)](https://git.io/typing-svg)
 
 
 
