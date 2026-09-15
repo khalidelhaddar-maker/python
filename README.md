@@ -8,13 +8,7 @@ smr2
 ## PYTHON
 ### PRACTICAS PYTHON
 #### OTRAS TAREAS
-**negrita**
 
-*cursiva*
-
-*** negrita + cursiva
-
-~~ tachado~~
 
 [visita] https://www.google.com/webhp?hl=es&sa=X&ved=2ahUKEwjUoNekq_CWAxUCKvsDHUgQHAYQPHoECAYQBA
 
