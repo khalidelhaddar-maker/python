@@ -19,11 +19,11 @@ smr2
 
 ![un gato](assets/img/GATO.avif)
 
-## lenguaje
-- html
-- css
-- javaScript
-- Python
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0C12F7&width=435&lines=lenguaje)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71D1D&width=435&lines=+html)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71D1D&width=435&lines=+css)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71D1D&width=435&lines=+javaScript)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71D1D&width=435&lines=Python)](https://git.io/typing-svg)
 1. diseñar
 2. programar
 3. probar
