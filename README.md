@@ -44,4 +44,8 @@ smr2
 ```python 
 print("hola mundo")```
 
-
+| Nombre | Edad ! Curso |
+| ---|---:|---|
+| Khalid | 32 | gm2 |
+| Javier | 18 | gm2 |
+| Yassin | 19 | gm2 | 
