@@ -6,7 +6,7 @@ smr2
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=khalid+el+haddar+)](https://git.io/typing-svg)
 # MODULO GM2
 ## PYTHON
-### PRACTICAS PYTHON
+### soy el alumno khalid el haddar ahdad y este año aprenderemos a programar con python con la profesora sonia y esperemos aprender lo maximo posible para poder programar en un fututo.
 #### OTRAS TAREAS
 
 
