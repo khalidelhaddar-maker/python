@@ -10,7 +10,8 @@ smr2
 #### OTRAS TAREAS
 
 
-![visita] https://www.google.com/webhp?hl=es&sa=X&ved=2ahUKEwjUoNekq_CWAxUCKvsDHUgQHAYQPHoECAYQBA
+![visita] 
+(https://www.google.com/webhp?hl=es&sa=X&ved=2ahUKEwjUoNekq_CWAxUCKvsDHUgQHAYQPHoECAYQBA)
 
 ![un gato](assets/img/GATO.avif)
 
