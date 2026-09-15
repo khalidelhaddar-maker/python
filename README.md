@@ -7,13 +7,14 @@ smr2
 # MODULO GM2
 ## PYTHON
 ### soy el alumno khalid el haddar ahdad y este año aprenderemos a programar con python con la profesora sonia y esperemos aprender lo maximo posible para poder programar en un fututo.
-#### OTRAS TAREAS
+
 
 
 ![visita github](https://github.com/)
 
 ![un gato](assets/img/GATO.avif)
 
+## lenguaje
 - html
 - css
 - javaScript
